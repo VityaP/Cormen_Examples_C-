@@ -1,5 +1,5 @@
-| Amount of data 	| MergeSort 	| MergeSort(V2) 	| STLSort 	|   	|
+| Amount of data 	| MergeSort 	| MergeSort(V2) 	| STLSort 	| InsertionSort   	|
 |----------------	|-----------	|---------------	|---------	|---	|
-| 10^6           	| 2         	| 1             	| 2       	|   	|
-| 10^7           	| 27        	| 18            	| 14      	|   	|
-| 10^8           	| 327       	| 206           	| 158     	|   	|
+| 10^6           	| 2         	| 1             	| 2       	| time ~ 2 h = 7200 |
+| 10^7           	| 27        	| 18            	| 14      	|  0_0 	|
+| 10^8           	| 327       	| 206           	| 158     	|  0_0 	|
