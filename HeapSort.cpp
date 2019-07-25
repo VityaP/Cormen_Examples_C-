@@ -63,7 +63,6 @@ std::vector<X> HeapSort(std::vector<X> &nums){
 
 #endif
 
-
 #include<iostream>
 #include<ctime>
 #include<cstdlib>
