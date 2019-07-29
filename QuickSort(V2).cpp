@@ -60,7 +60,7 @@ void InsertionSort( std::vector<X> &data,int start,int end){
 		
 	for(int i = start;i <= end; ++i){
 		X key = data[i];
-		X t = i - 1;
+		int t = i - 1;
 		while ( t >= start && data[t] > key ){
 			data[t + 1] = data[t];
 			--t;
