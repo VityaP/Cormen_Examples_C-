@@ -12,7 +12,7 @@ std::vector<X> InsertionSort( std::vector<X> &data){
 		
 	for(int i = 0;i < data.size(); ++i){
 		X key = data[i];
-		X t = i - 1;
+		int t = i - 1;
 		while ( t >= 0 && data[t] < key ){
 			data[t + 1] = data[t];
 			--t;
